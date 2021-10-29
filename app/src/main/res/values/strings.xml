@@ -1,0 +1,27 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">horoskop-app</string>
+
+
+    <string-array name="signs_array">
+        <item>Aries</item>
+        <item>Taurus</item>
+        <item>Gemini</item>
+        <item>cancer</item>
+        <item>leo</item>
+        <item>virgo</item>
+        <item>libra</item>
+        <item>Scorpio</item>
+        <item>Sagittarius</item>
+        <item>Capricorn</item>
+        <item>Aquarius</item>
+        <item>Pisces</item>
+    </string-array>
+
+    <string-array name="day_array">
+        <item>yesterday</item>
+        <item>today</item>
+        <item>tomorrow</item>
+    </string-array>
+
+
+</resources>
