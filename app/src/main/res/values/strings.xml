@@ -2,6 +2,7 @@
     <string name="app_name">horoskop-app</string>
     <string name="error_message">Kunne ikke laste horoskop!</string>
     <string name="Button_txt">se ditt horoskop!!</string>
+    
 
 
     <string-array name="signs_array">

@@ -25,55 +25,55 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/date"
-        android:text="hei"/>
+        android:text=""/>
 
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/todayDate"
-        android:text="hei"/>
+        android:text=""/>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/description"
-        android:text="hei"/>
+        android:text=""/>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/compability"
-        android:text="hei"/>
+        android:text=""/>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/number"
-        android:text="hei"/>
+        android:text=""/>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/time"
-        android:text="hei"/>
+        android:text=""/>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/color"
-        android:text="hei"/>
+        android:text=""/>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/dateRange"
-        android:text="hei"/>
+        android:text=""/>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/mood"
-        android:text="hei"/>
+        android:text=""/>
 
 </LinearLayout>
