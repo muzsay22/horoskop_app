@@ -51,7 +51,7 @@ class horoskopActivity : AppCompatActivity() {
             },
             { error ->
                 //Håndterer eventuelle feil
-                view.text = "Kunne ikke laste horoskop!"
+                view.text = getString(R.string.error_message)
             }
         )
 
